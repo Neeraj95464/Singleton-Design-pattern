@@ -1,4 +1,4 @@
-package com.ynmio.Singleton.Design.pattern.model;
+package com.ynmio.Singleton.Design.pattern.lazy;
 
 // its lazy initilation
 
